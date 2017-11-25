@@ -1,0 +1,15 @@
+Package: SCORE
+Type: Package
+Title: Spectral Clustering On Ratios-of-Eigenvectors
+Version: 1.0
+Date: 2017-10-19
+Author: Tracy Ke, Lijia Zhou and Qi Zhu
+Maintainer: Tracy Ke  <zke@galton.uchicago.edu>
+Description: #####
+License: GPL-2
+Depends: quadprog, utils, limSolve, lpSolve,gtools
+Suggests: MASS
+Encoding: UTF-8
+LazyData: true
+
+
